@@ -175,18 +175,8 @@ http://117.148.179.157/PLTV/88888888/224/3221231648/index.m3u8?zzhongd
 http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8?zzhongd
 #EXTINF:-1 group-title="💘中央蓝光",中文国际欧洲
 http://117.148.179.157/PLTV/88888888/224/3221231615/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",中文国际欧洲
-http://117.148.179.157/PLTV/88888888/224/3221232852/index.m3u8?zzhongd
 #EXTINF:-1 group-title="💘中央蓝光",中文国际美洲
 http://117.148.179.157/PLTV/88888888/224/3221231654/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",中文国际美洲
-http://117.148.179.157/PLTV/88888888/224/3221232866/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",4K超高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",8K超高清
-http://117.148.179.157/PLTV/88888888/224/3221233413/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",8K超高清
-http://117.148.179.157/PLTV/88888888/224/3221233439/index.m3u8?zzhongd
 
 #EXTINF:-1 group-title="📺卫视蓝光",广东卫视
 http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zweid
