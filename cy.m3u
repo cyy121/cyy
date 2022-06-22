@@ -29,7 +29,7 @@ https://cdn.hklive.tv/xxxx/99/index.m3u8
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="HKanime",ViuTV Six （第二聲度）
 https://cdn.hklive.tv/xxxx/96b/index.m3u8
-#EXTINF:-1 group-title="HKDMTB",Hands Up Channel
+#EXTINF:-1 group-title="HKanime",Hands Up Channel
 https://cdn.hklive.tv/xxxx/100/index.m3u8
 
 #EXTINF:-1 group-title="🌏港台",凤凰中文
