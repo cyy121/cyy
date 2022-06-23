@@ -83,150 +83,148 @@ http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index
 #EXTINF:-1 group-title="💝4K台",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 
-#EXTINF:-1 group-title="💘中央蓝光",💘💘💘️综合
+#EXTINF:-1 group-title="💘央视",💘💘💘️综合
 http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",综合1台
+#EXTINF:-1 group-title="💘央视",综合1台
 http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv1/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",财经2台
+#EXTINF:-1 group-title="💘央视",财经2台
 http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv2/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",综艺3台
+#EXTINF:-1 group-title="💘央视",综艺3台
 http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv3/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",中文国际4台
+#EXTINF:-1 group-title="💘央视",中文国际4台
 http://39.135.32.7:6610/000000001000/HD-8000k-1080P-cctv4/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",体育5台
+#EXTINF:-1 group-title="💘央视",体育5台
 http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv5/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",体育赛事
+#EXTINF:-1 group-title="💘央视",体育赛事
 http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv05plus/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",电影6台
+#EXTINF:-1 group-title="💘央视",电影6台
 http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv6/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",国防军事7台
+#EXTINF:-1 group-title="💘央视",国防军事7台
 http://39.135.32.7:6610/000000001000/cctv-7/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",电视剧8台
+#EXTINF:-1 group-title="💘央视",电视剧8台
 http://39.135.32.7:6610/000000001000/HD-8000k-1080P-cctv8/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",纪录9台
+#EXTINF:-1 group-title="💘央视",纪录9台
 http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv9/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",科教10台
+#EXTINF:-1 group-title="💘央视",科教10台
 http://39.135.32.7:6610/000000001000/cctv-10/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",戏曲11台
+#EXTINF:-1 group-title="💘央视",戏曲11台
 http://39.135.32.7:6610/000000001000/HD-8000k-1080P-cctv11/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",社会与法12台
+#EXTINF:-1 group-title="💘央视",社会与法12台
 http://39.135.32.7:6610/000000001000/cctv-12/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",新闻13台
+#EXTINF:-1 group-title="💘央视",新闻13台
 http://39.135.32.7:6610/000000001000/HD-8000k-1080P-cctv13/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",少儿14台
+#EXTINF:-1 group-title="💘央视",少儿14台
 http://39.135.32.7:6610/000000001000/cctv-14/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",音乐15台
+#EXTINF:-1 group-title="💘央视",音乐15台
 http://39.135.32.7:6610/000000001000/HD-8000k-1080P-cctv15/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",奥林匹克16台
+#EXTINF:-1 group-title="💘央视",奥林匹克16台
 http://39.135.32.7:6610/000000001000/HD-8000k-1080P-cctv16/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",农业农村17台
+#EXTINF:-1 group-title="💘央视",农业农村17台
 http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv17/1.m3u8?IASHttpSessionId=OTT?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",财经2台
+#EXTINF:-1 group-title="💘央视",财经2台
 http://39.135.32.24:6610/000000001000/1000000001000012442/1.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",综艺3台
+#EXTINF:-1 group-title="💘央视",综艺3台
 http://39.135.32.24:6610/000000001000/1000000001000011218/index.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",中文国际4台
+#EXTINF:-1 group-title="💘央视",中文国际4台
 http://39.135.32.24:6610/000000001000/1000000002000031664/1.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",体育5台
+#EXTINF:-1 group-title="💘央视",体育5台
 http://39.135.32.24:6610/000000001000/1000000001000004794/1.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",电影6台
+#EXTINF:-1 group-title="💘央视",电影6台
 http://39.135.32.24:6610/000000001000/1000000001000001737/index.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",国防军事7台
+#EXTINF:-1 group-title="💘央视",国防军事7台
 http://39.135.32.24:6610/000000001000/1000000001000017218/1.m3u8?xtkg?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",电视剧8台
+#EXTINF:-1 group-title="💘央视",电视剧8台
 http://39.135.32.24:6610/000000001000/1000000001000003736/index.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",纪录9台
+#EXTINF:-1 group-title="💘央视",纪录9台
 http://39.135.32.24:6610/000000001000/1000000001000014583/1.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",科教10台
+#EXTINF:-1 group-title="💘央视",科教10台
 http://39.135.32.24:6610/000000001000/1000000001000023734/index.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",社会与法12台
+#EXTINF:-1 group-title="💘央视",社会与法12台
 http://39.135.32.24:6610/000000001000/1000000001000032494/1.m3u8?i
-#EXTINF:-1 group-title="💘中央蓝光",新闻13台
+#EXTINF:-1 group-title="💘央视",新闻13台
 http://39.135.32.24:6610/000000001000/1000000002000021303/1.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",少儿14台
+#EXTINF:-1 group-title="💘央视",少儿14台
 http://39.135.32.24:6610/000000001000/1000000001000008170/1.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",音乐15台
+#EXTINF:-1 group-title="💘央视",音乐15台
 http://39.135.32.24:6610/000000001000/1000000002000008163/1.m3u8?i?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",综合1台
+#EXTINF:-1 group-title="💘央视",综合1台
 http://117.148.179.165/PLTV/88888888/224/3221231468/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",财经2台
+#EXTINF:-1 group-title="💘央视",财经2台
 http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",中文国际4台
+#EXTINF:-1 group-title="💘央视",中文国际4台
 http://117.148.179.157/PLTV/88888888/224/3221231726/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",电影6台
+#EXTINF:-1 group-title="💘央视",电影6台
 http://117.148.179.157/PLTV/88888888/224/3221232689/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",国防军事7台
+#EXTINF:-1 group-title="💘央视",国防军事7台
 http://117.148.179.157/PLTV/88888888/224/3221231633/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",电视剧8台
+#EXTINF:-1 group-title="💘央视",电视剧8台
 http://117.148.179.157/PLTV/88888888/224/3221231694/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",纪录9台
+#EXTINF:-1 group-title="💘央视",纪录9台
 http://117.148.179.157/PLTV/88888888/224/3221231697/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",科教10台
+#EXTINF:-1 group-title="💘央视",科教10台
 http://117.148.179.157/PLTV/88888888/224/3221231666/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",戏曲11台
+#EXTINF:-1 group-title="💘央视",戏曲11台
 http://117.148.179.157/PLTV/88888888/224/3221231711/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",社会与法12台
+#EXTINF:-1 group-title="💘央视",社会与法12台
 http://117.148.179.157/PLTV/88888888/224/3221231660/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",新闻13台
+#EXTINF:-1 group-title="💘央视",新闻13台
 http://183.207.249.11/PLTV/3/224/3221225560/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",少儿14台
+#EXTINF:-1 group-title="💘央视",少儿14台
 http://117.148.179.157/PLTV/88888888/224/3221231648/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",农业农村17台
+#EXTINF:-1 group-title="💘央视",农业农村17台
 http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",中文国际欧洲
+#EXTINF:-1 group-title="💘央视",中文国际欧洲
 http://117.148.179.157/PLTV/88888888/224/3221231615/index.m3u8?zzhongd
-#EXTINF:-1 group-title="💘中央蓝光",中文国际美洲
+#EXTINF:-1 group-title="💘央视",中文国际美洲
 http://117.148.179.157/PLTV/88888888/224/3221231654/index.m3u8?zzhongd
 
-#EXTINF:-1 group-title="📺卫视蓝光",广东卫视
+#EXTINF:-1 group-title="📺卫视",广东卫视
 http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",深圳卫视
+#EXTINF:-1 group-title="📺卫视",深圳卫视
 http://39.135.32.24:6610/000000001000/1000000001000011645/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",湖南卫视
+#EXTINF:-1 group-title="📺卫视",湖南卫视
 http://39.135.32.24:6610/000000001000/1000000001000009115/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",浙江卫视
+#EXTINF:-1 group-title="📺卫视",浙江卫视
 http://39.135.32.24:6610/000000001000/1000000001000009806/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",东方卫视
+#EXTINF:-1 group-title="📺卫视",东方卫视
 http://39.135.32.24:6610/000000001000/1000000001000030202/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",江苏卫视
+#EXTINF:-1 group-title="📺卫视",江苏卫视
 http://39.135.32.24:6610/000000001000/1000000001000004684/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",北京卫视
+#EXTINF:-1 group-title="📺卫视",北京卫视
 http://39.135.32.24:6610/000000001000/1000000001000017156/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",天津卫视
+#EXTINF:-1 group-title="📺卫视",天津卫视
 http://39.135.32.24:6610/000000001000/1000000001000000831/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",山東卫视
+#EXTINF:-1 group-title="📺卫视",山東卫视
 http://39.135.32.24:6610/000000001000/1000000001000012807/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",东南卫视
+#EXTINF:-1 group-title="📺卫视",东南卫视
 http://39.135.32.24:6610/000000001000/1000000002000009263/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",江西卫视
+#EXTINF:-1 group-title="📺卫视",江西卫视
 http://39.135.32.24:6610/000000001000/1000000001000013731/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",黑龙江卫视
+#EXTINF:-1 group-title="📺卫视",黑龙江卫视
 http://39.135.32.24:6610/000000001000/8467838254824392379/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",重庆卫视
+#EXTINF:-1 group-title="📺卫视",重庆卫视
 http://39.135.32.24:6610/000000001000/1000000002000018937/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",辽宁卫视
+#EXTINF:-1 group-title="📺卫视",辽宁卫视
 http://39.135.32.24:6610/000000001000/1000000002000024033/1.m3u8?xtkg?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",江苏卫视
+#EXTINF:-1 group-title="📺卫视",江苏卫视
 http://39.135.32.24:6610/000000001000/HD-4000k-1080P-jiangsustv/1.m3u8?IASHttpSessionId=OTT?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",山东卫视
+#EXTINF:-1 group-title="📺卫视",山东卫视
 http://39.135.32.24:6610/000000001000/HD-8000k-1080P-shandongstv/1.m3u8?IASHttpSessionId=OTT?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",黑龙江卫视
+#EXTINF:-1 group-title="📺卫视",黑龙江卫视
 http://39.135.32.24:6610/000000001000/hdheilongjiangstv/1.m3u8?IASHttpSessionId=OTT?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",安徽卫视
+#EXTINF:-1 group-title="📺卫视",安徽卫视
 http://39.135.32.24:6610/000000001000/anhuistv/1.m3u8?IASHttpSessionId=OTT?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",辽宁卫视
+#EXTINF:-1 group-title="📺卫视",辽宁卫视
 http://39.135.32.24:6610/000000001000/HD-8000k-1080P-liaoningstv/1.m3u8?IASHttpSessionId=OTT?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",江西卫视
+#EXTINF:-1 group-title="📺卫视",江西卫视
 http://39.135.32.7:6610/000000001000/HD-4000k-1080P-jiangxistv/1.m3u8?IASHttpSessionId=OTT?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",湖南卫视
+#EXTINF:-1 group-title="📺卫视",湖南卫视
 http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",湖南卫视
-http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",江苏卫视
+#EXTINF:-1 group-title="📺卫视",江苏卫视
 http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",湖北卫视
+#EXTINF:-1 group-title="📺卫视",湖北卫视
 http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8?zweid
-#EXTINF:-1 group-title="📺卫视蓝光",四川卫视
+#EXTINF:-1 group-title="📺卫视",四川卫视
 http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8?zweid
 
 #EXTINF:-1 group-title="🍡iHOT",iHOT爱时尚
