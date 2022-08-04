@@ -1,35 +1,10 @@
-#EXTM3U x-tvg-url="https://live.hkanime.com.hk/epg"
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="🌺🌺港台",港台電視31
-https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="🌺🌺港台",港台電視32
-https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="🌺🌺港台",港台電視33
-https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="CGTN紀錄頻道" tvg-logo="https://live.hkanime.com.hk/png_logo/34.png" group-title="🌺🌺港台",CGTN紀錄頻道
-https://cdn.hklive.tv/xxxx/34/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="🌺🌺港台",香港開電視
-https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="🌺🌺港台",香港國際財經台
-https://cdn.hklive.tv/xxxx/76/index.m3u8
+#EXTM3U 
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="🌺🌺港台",翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="🌺🌺港台",J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="🌺🌺港台",無綫新聞台
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="🌺🌺港台",明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="🌺🌺港台",明珠台 (粵語聲道)
-https://cdn.hklive.tv/xxxx/84b/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="🌺🌺港台",無綫財經·資訊台
-https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="🌺🌺港台",ViuTV
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="🌺🌺港台",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 group-title="🌺🌺港台",Hands Up Channel
-https://cdn.hklive.tv/xxxx/100/index.m3u8
-
 #EXTINF:-1 group-title="🌺🌺港台",台湾番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="🌺🌺港台",大愛一臺
@@ -66,7 +41,7 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 group-title="💝4K台",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="💘央视",💘💘💘️综合
+#EXTINF:-1 group-title="💘央视",综合1台
 http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd
 #EXTINF:-1 group-title="💘央视",财经2台
 http://39.135.32.24:6610/000000001000/1000000001000012442/1.m3u8?i?zzhongd
