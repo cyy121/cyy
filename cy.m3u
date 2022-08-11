@@ -98,3 +98,91 @@ http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000
 http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="🍡iHOT",iHOT爱幼教
 http://111.11.123.49:6610/000000001000/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
+
+#EXTINF:-1 group-title="揭阳电信",CCTV2
+http://113.64.147.125:808/hls/2/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",广东体育
+http://113.64.147.125:808/hls/1/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV3
+http://113.64.147.125:808/hls/3/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV5
+http://113.64.147.125:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV7
+http://113.64.147.125:808/hls/7/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV6
+http://113.64.147.125:808/hls/6/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV8
+http://113.64.147.125:808/hls/8/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV10
+http://113.64.147.125:808/hls/10/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV12
+http://113.64.147.125:808/hls/12/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV9
+http://113.64.147.125:808/hls/9/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV15
+http://113.64.147.125:808/hls/15/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV5+
+http://113.64.147.125:808/hls/16/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",凤凰资讯
+http://113.64.147.125:808/hls/36/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",凤凰中文
+http://113.64.147.125:808/hls/37/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",凤凰香港
+http://113.64.147.125:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",广东卫视
+http://113.64.147.125:808/hls/40/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",湖南卫视
+http://113.64.147.125:808/hls/42/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",浙江卫视
+http://113.64.147.125:808/hls/43/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",揭西
+http://113.64.147.125:808/hls/39/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",江苏卫视
+http://113.64.147.125:808/hls/44/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",深圳卫视
+http://113.64.147.125:808/hls/46/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",北京卫视
+http://113.64.147.125:808/hls/45/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",东方卫视
+http://113.64.147.125:808/hls/47/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",黑龙江卫视
+http://113.64.147.125:808/hls/50/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",天津卫视
+http://113.64.147.125:808/hls/48/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",安徽卫视
+http://113.64.147.125:808/hls/49/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",湖北卫视
+http://113.64.147.125:808/hls/51/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",辽宁卫视
+http://113.64.147.125:808/hls/54/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",贵州卫视
+http://113.64.147.125:808/hls/53/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",东南卫视
+http://113.64.147.125:808/hls/55/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",四川卫视
+http://113.64.147.125:808/hls/52/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",纪实人文
+http://113.64.147.125:808/hls/56/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",河北卫视
+http://113.64.147.125:808/hls/57/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",吉林卫视
+http://113.64.147.125:808/hls/59/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",江西卫视
+http://113.64.147.125:808/hls/58/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",广西卫视
+http://113.64.147.125:808/hls/60/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",足球
+http://113.64.147.125:808/hls/65/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",广东经济
+http://113.64.147.125:808/hls/66/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",翡翠
+http://113.64.147.125:808/hls/67/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",深圳都市
+http://113.64.147.125:808/hls/68/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",深圳体育
+http://113.64.147.125:808/hls/70/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",星河
+http://113.64.147.125:808/hls/135/index.m3u8
+#EXTINF:-1 group-title="揭阳电信",CCTV1
+http://113.64.147.125:808/hls/138/index.m3u8
+
