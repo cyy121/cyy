@@ -15,14 +15,116 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://ytb.arp220.us/jmsytb.m3u8?c=1
 #EXTINF:-1 group-title="🌺🌺港台",寰宇新聞
 https://ytb.arp220.us/jmsytb.m3u8?c=6
-#EXTINF:-1 group-title="🌺🌺港台",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 group-title="🌺🌺港台",BloombergTV+2
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
 #EXTINF:-1 group-title="🌺🌺港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",ChannelNewsAsia
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 #EXTINF:-1 group-title="🌺🌺港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",ChannelNewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",Star World
+http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",Star World
+http://61.219.170.95:18504/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",龙华戏剧
+http://61.219.170.95:18507/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",龙华日韩
+http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",龙华日韩
+http://61.219.170.95:18508/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",八大综合
+http://61.219.170.95:18517/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",中天娱乐
+http://61.219.170.95:18521/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",卫视中文
+http://61.219.170.95:18522/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",卫视中文
+http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",NHK世界
+http://61.219.170.95:18525/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",日本体育
+http://61.219.170.95:18525/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",卫视电影
+http://61.219.170.95:18529/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",卫视电影
+http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",湖南卫视
+http://61.219.170.95:18536/http/192.168.1.9:8078/hls/41/80/huana.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",八大第一
+http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",八大第一
+http://61.219.170.95:18539/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",纬来综合
+http://61.219.170.95:18540/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",纬来育乐
+http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",纬来育乐
+http://61.219.170.95:18541/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",台视
+http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",台视
+http://61.219.170.95:18543/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",AXN
+http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",AXN
+http://61.219.170.95:18548/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",Animax
+http://61.219.170.95:18550/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",Animax 卡通
+http://61.219.170.95:18550/http/192.168.1.9:8081/hls/70/812/ch39.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",CNBC
+http://61.219.170.95:18551/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",东森超视
+http://61.219.170.95:18555/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",纬来戏剧
+http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",纬来戏剧
+http://61.219.170.95:18557/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",年代MUCH
+http://61.219.170.95:18558/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",东风37
+http://61.219.170.95:18560/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",东风卫视
+http://61.219.170.95:18560/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",凤凰资讯
+http://61.219.170.95:18565/http/192.168.1.9:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",凤凰资讯
+http://61.219.170.95:18565/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",凤凰中文
+http://61.219.170.95:18566/http/192.168.1.9:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",凤凰中文
+http://61.219.170.95:18566/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",亚洲旅游
+http://61.219.170.95:18568/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",亚洲旅游
+http://61.219.170.95:18568/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",龙华偶像
+http://61.219.170.95:18573/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",龙华电影
+http://61.219.170.95:18574/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",龙华电影
+http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",MOMO 综合
+http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",MOMO综合
+http://61.219.170.95:18576/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",龙华卡通
+http://61.219.170.95:18600/.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",东森新闻
+http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
+#EXTINF:-1 group-title="🌺🌺港台",澳门3
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",澳门Macau
+http://61.244.22.4/ch2/ch2.live/chunklist_w1022440308.m3u8?WithCaption
+#EXTINF:-1 group-title="🌺🌺港台",澳视葡文
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",澳视葡文
+http://61.244.22.4/ch2/ch2.live/index.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",澳视葡文
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 group-title="🌺🌺港台",澳视卫星
+http://61.244.22.4/ch3/ch3.live/index.m3u8
 #EXTINF:-1 group-title="💝4K台",4k超高清
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF:-1 group-title="💝4K台",纯享4K
