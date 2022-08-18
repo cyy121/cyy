@@ -66,8 +66,6 @@ http://ip2121.com:8081/live/cnn/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8?
 #EXTINF:-1 group-title="🌺🌺港台",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 group-title="🌺🌺港台",东森新闻
-http://61.222.202.191/gt/gttv.php?id=13635&cid=13787
 #EXTINF:-1 group-title="🌺🌺港台",澳门3
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 group-title="🌺🌺港台",澳门Macau
