@@ -109,6 +109,14 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 group-title="💝4K台",Bestv
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 group-title="💝4K台",4K超清 北京IPTV
+http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBO3+2/Lci77HWE/MDUdCEgEA==:20211105223205,10000100000000050000000003887500,F6D75A298389DD1E7C3B7D397327CA23,-1,0,1,,,2,,,END
+#EXTINF:-1 group-title="💝4K台",纯享4K 25M2160HDR
+http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="💝4K台",CCTV-4K
+https://p.ggiptv.com/v/4k.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="💝4K台",欢笑剧场4K
+http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?blog.ntnas.top
 
 #EXTINF:-1 group-title="🍡iHOT",iHOT爱时尚
 http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
