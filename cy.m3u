@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.hkanime.com.hk/epg"
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="🌺🌺港台",港台電視31
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="🌺🌺港台台",港台電視31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="🌺🌺港台",港台電視32
 https://cdn.hklive.tv/xxxx/32/index.m3u8
@@ -27,6 +27,7 @@ https://cdn.hklive.tv/xxxx/85/index.m3u8
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="🌺🌺港台",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
+
 #EXTINF:-1 group-title="🌺🌺港台",Now新闻
 https://2022.kg-live.com/live/01
 #EXTINF:-1 group-title="🌺🌺港台",Now财经
@@ -37,8 +38,6 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="🌺🌺港台",大愛二臺
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="🌺🌺港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-https://ytb.arp220.us/jmsytb.m3u8?c=1
 #EXTINF:-1 group-title="🌺🌺港台",寰宇新聞
 https://ytb.arp220.us/jmsytb.m3u8?c=6
 #EXTINF:-1 group-title="🌺🌺港台",BloombergTV+2
@@ -47,7 +46,6 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 #EXTINF:-1 group-title="🌺🌺港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",ChannelNewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
 #EXTINF:-1 group-title="🌺🌺港台",CNA亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="🌺🌺港台",NHK国际
@@ -86,7 +84,6 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227222/index.m3u
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="🌺🌺港台",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-
 #EXTINF:-1 group-title="💝4K台",4k超高清
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF:-1 group-title="💝4K台",纯享4K
@@ -101,175 +98,22 @@ http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
 #EXTINF:-1 group-title="💝4K台",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="💝4K台",北京4kIPTV
-http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 group-title="💝4K台",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 group-title="💝4K台",Bestv
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 group-title="💝4K台",Bestv
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 group-title="💝4K台",4K超清 北京IPTV
-http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR+0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52/rO/0g1FiOsgmHLskIhGej57NNTIcVyR/C8/qFakBO3+2/Lci77HWE/MDUdCEgEA==:20211105223205,10000100000000050000000003887500,F6D75A298389DD1E7C3B7D397327CA23,-1,0,1,,,2,,,END
-#EXTINF:-1 group-title="💝4K台",纯享4K 25M2160HDR
-http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?blog.ntnas.top
-#EXTINF:-1 group-title="💝4K台",CCTV-4K
-https://p.ggiptv.com/v/4k.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="💝4K台",欢笑剧场4K
-http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?blog.ntnas.top
-
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱时尚
-http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱青春
-http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",HOT爱院线
-http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱喜剧
-http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱悬疑
-http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱经典
-http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱江湖
-http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱科幻
-http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱浪漫
-http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱赛车
-http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱体育
-http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱探索
-http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱奇谈
-http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱玩具
-http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱世界
-http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱怀旧
-http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱旅行
-http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱极限
-http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱解密
-http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱谍战
-http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱历史
-http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱猎奇
-http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱都市
-http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱科学
-http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱美食
-http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱家庭
-http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱动漫
-http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="🍡iHOT",iHOT爱幼教
-http://111.11.123.49:6610/000000001000/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
-
-#EXTINF:-1 group-title="揭阳电信",CCTV2
-http://113.64.147.18:808/hls/2/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",广东体育
-http://113.64.147.18:808/hls/1/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV3
-http://113.64.147.18:808/hls/3/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV5
-http://113.64.147.18:808/hls/5/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV7
-http://113.64.147.18:808/hls/7/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV6
-http://113.64.147.18:808/hls/6/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV8
-http://113.64.147.18:808/hls/8/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV10
-http://113.64.147.18:808/hls/10/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV12
-http://113.64.147.18:808/hls/12/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV9
-http://113.64.147.18:808/hls/9/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV15
-http://113.64.147.18:808/hls/15/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV5+
-http://113.64.147.18:808/hls/16/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",凤凰资讯
-http://113.64.147.18:808/hls/36/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",凤凰中文
-http://113.64.147.18:808/hls/37/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",凤凰香港
-http://113.64.147.18:808/hls/38/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",广东卫视
-http://113.64.147.18:808/hls/40/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",湖南卫视
-http://113.64.147.18:808/hls/42/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",浙江卫视
-http://113.64.147.18:808/hls/43/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",揭西
-http://113.64.147.18:808/hls/39/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",江苏卫视
-http://113.64.147.18:808/hls/44/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",深圳卫视
-http://113.64.147.18:808/hls/46/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",北京卫视
-http://113.64.147.18:808/hls/45/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",东方卫视
-http://113.64.147.18:808/hls/47/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",黑龙江卫视
-http://113.64.147.18:808/hls/50/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",天津卫视
-http://113.64.147.18:808/hls/48/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",安徽卫视
-http://113.64.147.18:808/hls/49/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",湖北卫视
-http://113.64.147.18:808/hls/51/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",辽宁卫视
-http://113.64.147.18:808/hls/54/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",贵州卫视
-http://113.64.147.18:808/hls/53/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",东南卫视
-http://113.64.147.18:808/hls/55/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",四川卫视
-http://113.64.147.18:808/hls/52/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",纪实人文
-http://113.64.147.18:808/hls/56/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",河北卫视
-http://113.64.147.18:808/hls/57/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",吉林卫视
-http://113.64.147.18:808/hls/59/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",江西卫视
-http://113.64.147.18:808/hls/58/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",广西卫视
-http://113.64.147.18:808/hls/60/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",足球
-http://113.64.147.18:808/hls/65/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",广东经济
-http://113.64.147.18:808/hls/66/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",翡翠
-http://113.64.147.18:808/hls/67/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",深圳都市
-http://113.64.147.18:808/hls/68/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",深圳体育
-http://113.64.147.18:808/hls/70/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",星河
-http://113.64.147.18:808/hls/135/index.m3u8
-#EXTINF:-1 group-title="揭阳电信",CCTV1
-http://113.64.147.18:808/hls/138/index.m3u8
-
+http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8
+#EXTINF:-1 group-title="💝4K台",CCTV-4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 group-title="💝4K台",欢笑剧场4K
+http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="未分类",4K
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="未分类",CCTV4K
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="未分类",凤凰中文
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="未分类",凤凰资讯
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="未分类",4K
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="未分类",CCTV4K
@@ -428,8 +272,6 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="未分类",凤凰中文 HD
 https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="未分类",香港電台普通話台
-https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 #EXTINF:-1 group-title="未分类",香港电台第2台
 https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
 #EXTINF:-1 group-title="未分类",Salto Brasa Music
