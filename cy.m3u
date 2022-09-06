@@ -289,3 +289,115 @@ https://unbeaten-roku.amagi.tv/playlist.m3u8
 https://d1qaz9zojo1ayt.cloudfront.net/playlistR1080p.m3u8
 #EXTINF:-1 group-title="未分类",outside tv
 https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="未分类",中视
+rtmp://59.124.75.138:1935/sat/tv091
+#EXTINF:-1 group-title="未分类",华视
+rtmp://59.124.75.138:1935/sat/tv111
+#EXTINF:-1 group-title="未分类",台视
+rtmp://59.124.75.138:1935/sat/tv071
+#EXTINF:-1 group-title="未分类",民视
+rtmp://59.124.75.138:1935/sat/tv051
+#EXTINF:-1 group-title="未分类",TVBS新闻
+rtmp://59.124.75.138:1935/sat/tv551
+#EXTINF:-1 group-title="未分类",TVBS欢乐
+rtmp://59.124.75.138:1935/sat/tv421
+#EXTINF:-1 group-title="未分类",有线18
+rtmp://59.124.75.138:1935/sat/hk041
+#EXTINF:-1 group-title="未分类",纬来育乐
+rtmp://59.124.75.138:1935/sat/tv701
+#EXTINF:-1 group-title="未分类",纬来体育
+rtmp://59.124.75.138:1935/sat/tv721
+#EXTINF:-1 group-title="未分类",纬来日本
+rtmp://59.124.75.138:1935/sat/tv771
+#EXTINF:-1 group-title="未分类",东森财经
+rtmp://59.124.75.138:1935/sat/tv571
+#EXTINF:-1 group-title="未分类",东森超视
+rtmp://59.124.75.138:1935/sat/tv331
+#EXTINF:-1 group-title="未分类",陌陌综合
+rtmp://59.124.75.138:1935/sat/tv761
+#EXTINF:-1 group-title="未分类",ELEVEN1
+rtmp://59.124.75.138:1935/sat/tv731
+#EXTINF:-1 group-title="未分类",ELEVEN2
+rtmp://59.124.75.138:1935/sat/tv741
+#EXTINF:-1 group-title="未分类",ELEVEN2
+rtmp://59.124.75.138/sat/tv741
+#EXTINF:-1 group-title="未分类",ELEVEN2
+rtmp://59.124.75.138/sat/md051
+#EXTINF:-1 group-title="未分类",ELEVEN2
+rtmp://59.124.75.150/sat/tv741
+#EXTINF:-1 group-title="未分类",ELTA体育1
+rtmp://59.124.75.150/sat/md011
+#EXTINF:-1 group-title="未分类",ELTA体育1
+rtmp://59.124.75.138/sat/md011
+#EXTINF:-1 group-title="未分类",ELTA体育2
+rtmp://59.124.75.150/sat/md021
+#EXTINF:-1 group-title="未分类",ELTA体育2
+rtmp://59.124.75.138/sat/md021
+#EXTINF:-1 group-title="未分类",ELTA体育3
+rtmp://59.124.75.150/sat/md041
+#EXTINF:-1 group-title="未分类",ELTA体育3
+rtmp://59.124.75.138/sat/md041
+#EXTINF:-1 group-title="未分类",MOMO综合
+rtmp://59.124.75.138:1935/sat/tv761
+#EXTINF:-1 group-title="未分类",MOMO综合
+rtmp://59.124.75.138/sat/tv761
+#EXTINF:-1 group-title="未分类",MOMO综合
+rtmp://59.124.75.150/sat/tv761
+#EXTINF:-1 group-title="未分类",TVBS欢乐
+rtmp://59.124.75.138/sat/tv421
+#EXTINF:-1 group-title="未分类",TVBS欢乐
+rtmp://59.124.75.150/sat/tv421
+#EXTINF:-1 group-title="未分类",TVBS新闻
+rtmp://59.124.75.150/sat/tv551
+#EXTINF:-1 group-title="未分类",TVBS新闻
+rtmp://59.124.75.138/sat/tv551
+#EXTINF:-1 group-title="未分类",博斯网球
+rtmp://59.124.75.150/sat/md031
+#EXTINF:-1 group-title="未分类",博斯网球
+rtmp://59.124.75.138/sat/md031
+#EXTINF:-1 group-title="未分类",博斯运动2
+rtmp://59.124.75.138:1935/sat/md021
+#EXTINF:-1 group-title="未分类",东森财经
+rtmp://59.124.75.138/sat/tv571
+#EXTINF:-1 group-title="未分类",东森财经新闻
+rtmp://59.124.75.150/sat/tv571
+#EXTINF:-1 group-title="未分类",华视
+rtmp://59.124.75.138/sat/tv111
+#EXTINF:-1 group-title="未分类",华视
+rtmp://59.124.75.150/sat/tv111
+#EXTINF:-1 group-title="未分类",民视
+rtmp://59.124.75.138/sat/tv051
+#EXTINF:-1 group-title="未分类",民视
+rtmp://59.124.75.150/sat/tv051
+#EXTINF:-1 group-title="未分类",台视
+rtmp://59.124.75.150/sat/tv071
+#EXTINF:-1 group-title="未分类",台视
+rtmp://59.124.75.138/sat/tv071
+#EXTINF:-1 group-title="未分类",纬来日本
+rtmp://59.124.75.138/sat/tv771
+#EXTINF:-1 group-title="未分类",纬来日本
+rtmp://59.124.75.150/sat/tv771
+#EXTINF:-1 group-title="未分类",纬来体育
+rtmp://59.124.75.138/sat/tv721
+#EXTINF:-1 group-title="未分类",纬来体育
+rtmp://59.124.75.150/sat/tv721
+#EXTINF:-1 group-title="未分类",纬来育乐
+rtmp://59.124.75.150/sat/tv701
+#EXTINF:-1 group-title="未分类",纬来育乐
+rtmp://59.124.75.138/sat/tv701
+#EXTINF:-1 group-title="未分类",中视
+rtmp://59.124.75.150/sat/tv091
+#EXTINF:-1 group-title="未分类",中视
+rtmp://59.124.75.138/sat/tv091
+#EXTINF:-1 group-title="未分类",[HD]KIX
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="未分类",SBS
+http://1.245.74.5:1935/live/tv/.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="未分类",天映经典
+http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+#EXTINF:-1 group-title="未分类",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="未分类",TVB影视
+http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
+#EXTINF:-1 group-title="未分类",日韩频道
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
