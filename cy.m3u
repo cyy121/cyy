@@ -401,3 +401,11 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
 #EXTINF:-1 ,日韩频道
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1 ,无线新闻
+https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=1
+#EXTINF:-1 ,无线财经
+https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=2
+#EXTINF:-1 ,now新闻
+https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
+#EXTINF:-1 ,now直播
+https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=331
