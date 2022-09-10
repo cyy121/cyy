@@ -1,45 +1,124 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" ,港台電視31
-https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" ,港台電視32
-https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" ,港台電視33
-https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="CGTN紀錄頻道" tvg-logo="https://live.hkanime.com.hk/png_logo/34.png" ,CGTN紀錄頻道
-https://cdn.hklive.tv/xxxx/34/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" ,香港開電視
-https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" ,香港國際財經台
-https://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" ,翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" ,J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" ,無綫新聞台
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" ,明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" ,明珠台 (粵語聲道)
-https://cdn.hklive.tv/xxxx/84b/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" ,無綫財經·資訊台
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" ,ViuTV
-https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" ,ViuTV Six
-https://cdn.hklive.tv/xxxx/96/index.m3u8
-
+#EXTM3U
 #EXTINF:-1 ,Now新闻
 https://2022.kg-live.com/live/01
 #EXTINF:-1 ,Now财经
 https://2022.kg-live.com/live/02
+#EXTINF:-1 ,无线新闻
+https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=1
+#EXTINF:-1 ,无线财经
+https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=2
+#EXTINF:-1 ,now新闻
+https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
+#EXTINF:-1 ,now直播
+https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=331
+
+#EXTINF:-1 ,中视
+rtmp://59.124.75.138:1935/sat/tv091
+#EXTINF:-1 ,华视
+rtmp://59.124.75.138:1935/sat/tv111
+#EXTINF:-1 ,台视
+rtmp://59.124.75.138:1935/sat/tv071
+#EXTINF:-1 ,民视
+rtmp://59.124.75.138:1935/sat/tv051
+#EXTINF:-1 ,TVBS新闻
+rtmp://59.124.75.138:1935/sat/tv551
+#EXTINF:-1 ,TVBS欢乐
+rtmp://59.124.75.138:1935/sat/tv421
+#EXTINF:-1 ,有线18
+rtmp://59.124.75.138:1935/sat/hk041
+#EXTINF:-1 ,纬来育乐
+rtmp://59.124.75.138:1935/sat/tv701
+#EXTINF:-1 ,纬来体育
+rtmp://59.124.75.138:1935/sat/tv721
+#EXTINF:-1 ,纬来日本
+rtmp://59.124.75.138:1935/sat/tv771
+#EXTINF:-1 ,东森财经
+rtmp://59.124.75.138:1935/sat/tv571
+#EXTINF:-1 ,东森超视
+rtmp://59.124.75.138:1935/sat/tv331
+#EXTINF:-1 ,陌陌综合
+rtmp://59.124.75.138:1935/sat/tv761
+#EXTINF:-1 ,ELEVEN1
+rtmp://59.124.75.138:1935/sat/tv731
+#EXTINF:-1 ,ELEVEN2
+rtmp://59.124.75.138:1935/sat/tv741
+#EXTINF:-1 ,ELEVEN2
+rtmp://59.124.75.138/sat/tv741
+#EXTINF:-1 ,ELEVEN2
+rtmp://59.124.75.138/sat/md051
+#EXTINF:-1 ,ELEVEN2
+rtmp://59.124.75.150/sat/tv741
+#EXTINF:-1 ,ELTA体育1
+rtmp://59.124.75.150/sat/md011
+#EXTINF:-1 ,ELTA体育1
+rtmp://59.124.75.138/sat/md011
+#EXTINF:-1 ,ELTA体育2
+rtmp://59.124.75.150/sat/md021
+#EXTINF:-1 ,ELTA体育2
+rtmp://59.124.75.138/sat/md021
+#EXTINF:-1 ,ELTA体育3
+rtmp://59.124.75.150/sat/md041
+#EXTINF:-1 ,ELTA体育3
+rtmp://59.124.75.138/sat/md041
+#EXTINF:-1 ,MOMO综合
+rtmp://59.124.75.138:1935/sat/tv761
+#EXTINF:-1 ,MOMO综合
+rtmp://59.124.75.138/sat/tv761
+#EXTINF:-1 ,MOMO综合
+rtmp://59.124.75.150/sat/tv761
+#EXTINF:-1 ,TVBS欢乐
+rtmp://59.124.75.138/sat/tv421
+#EXTINF:-1 ,TVBS欢乐
+rtmp://59.124.75.150/sat/tv421
+#EXTINF:-1 ,TVBS新闻
+rtmp://59.124.75.150/sat/tv551
+#EXTINF:-1 ,TVBS新闻
+rtmp://59.124.75.138/sat/tv551
+#EXTINF:-1 ,博斯网球
+rtmp://59.124.75.150/sat/md031
+#EXTINF:-1 ,博斯网球
+rtmp://59.124.75.138/sat/md031
+#EXTINF:-1 ,博斯运动2
+rtmp://59.124.75.138:1935/sat/md021
+#EXTINF:-1 ,东森财经
+rtmp://59.124.75.138/sat/tv571
+#EXTINF:-1 ,东森财经新闻
+rtmp://59.124.75.150/sat/tv571
+#EXTINF:-1 ,华视
+rtmp://59.124.75.138/sat/tv111
+#EXTINF:-1 ,华视
+rtmp://59.124.75.150/sat/tv111
+#EXTINF:-1 ,民视
+rtmp://59.124.75.138/sat/tv051
+#EXTINF:-1 ,民视
+rtmp://59.124.75.150/sat/tv051
+#EXTINF:-1 ,台视
+rtmp://59.124.75.150/sat/tv071
+#EXTINF:-1 ,台视
+rtmp://59.124.75.138/sat/tv071
+#EXTINF:-1 ,纬来日本
+rtmp://59.124.75.138/sat/tv771
+#EXTINF:-1 ,纬来日本
+rtmp://59.124.75.150/sat/tv771
+#EXTINF:-1 ,纬来体育
+rtmp://59.124.75.138/sat/tv721
+#EXTINF:-1 ,纬来体育
+rtmp://59.124.75.150/sat/tv721
+#EXTINF:-1 ,纬来育乐
+rtmp://59.124.75.150/sat/tv701
+#EXTINF:-1 ,纬来育乐
+rtmp://59.124.75.138/sat/tv701
+#EXTINF:-1 ,中视
+rtmp://59.124.75.150/sat/tv091
+#EXTINF:-1 ,中视
+rtmp://59.124.75.138/sat/tv091
+
 #EXTINF:-1 ,台湾番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 ,大愛一臺
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 ,大愛二臺
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 ,寰宇新聞
-https://ytb.arp220.us/jmsytb.m3u8?c=6
 #EXTINF:-1 ,BloombergTV+2
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",ChannelNewsAsia
@@ -64,12 +143,6 @@ http://ip2121.com:8081/live/cnn/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8?
 #EXTINF:-1 ,人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 ,澳门3
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 ,澳门Macau
-http://61.244.22.4/ch2/ch2.live/chunklist_w1022440308.m3u8?WithCaption
-#EXTINF:-1 ,澳视卫星
-http://61.244.22.4/ch3/ch3.live/index.m3u8
 #EXTINF:-1 ,凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1 ,凤凰香港
@@ -106,7 +179,6 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/ind
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 ,欢笑剧场4K
 http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8
-
 #EXTINF:-1 ,4K
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 ,CCTV4K
@@ -121,14 +193,10 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 ,广东卫视
 http://9.zhxinda.xyz/gdtv.php?pk=1182
-#EXTINF:-1 ,广东新闻
-http://9.zhxinda.xyz/gdtv.php?pk=1186
 #EXTINF:-1 ,广东国际
 http://9.zhxinda.xyz/gdtv.php?pk=1191
 #EXTINF:-1 ,广东经济科教
 http://9.zhxinda.xyz/gdtv.php?pk=1196
-#EXTINF:-1 ,广东综艺
-http://9.zhxinda.xyz/gdtv.php?pk=1198
 #EXTINF:-1 ,广东影视
 http://9.zhxinda.xyz/gdtv.php?pk=1199
 #EXTINF:-1 ,广东少儿
@@ -151,14 +219,8 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 ,Fuel TV
 http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,美国my time spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-#EXTINF:-1 ,TVBJ1
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 ,CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 ,Brat TV
@@ -289,106 +351,6 @@ https://unbeaten-roku.amagi.tv/playlist.m3u8
 https://d1qaz9zojo1ayt.cloudfront.net/playlistR1080p.m3u8
 #EXTINF:-1 ,outside tv
 https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 ,中视
-rtmp://59.124.75.138:1935/sat/tv091
-#EXTINF:-1 ,华视
-rtmp://59.124.75.138:1935/sat/tv111
-#EXTINF:-1 ,台视
-rtmp://59.124.75.138:1935/sat/tv071
-#EXTINF:-1 ,民视
-rtmp://59.124.75.138:1935/sat/tv051
-#EXTINF:-1 ,TVBS新闻
-rtmp://59.124.75.138:1935/sat/tv551
-#EXTINF:-1 ,TVBS欢乐
-rtmp://59.124.75.138:1935/sat/tv421
-#EXTINF:-1 ,有线18
-rtmp://59.124.75.138:1935/sat/hk041
-#EXTINF:-1 ,纬来育乐
-rtmp://59.124.75.138:1935/sat/tv701
-#EXTINF:-1 ,纬来体育
-rtmp://59.124.75.138:1935/sat/tv721
-#EXTINF:-1 ,纬来日本
-rtmp://59.124.75.138:1935/sat/tv771
-#EXTINF:-1 ,东森财经
-rtmp://59.124.75.138:1935/sat/tv571
-#EXTINF:-1 ,东森超视
-rtmp://59.124.75.138:1935/sat/tv331
-#EXTINF:-1 ,陌陌综合
-rtmp://59.124.75.138:1935/sat/tv761
-#EXTINF:-1 ,ELEVEN1
-rtmp://59.124.75.138:1935/sat/tv731
-#EXTINF:-1 ,ELEVEN2
-rtmp://59.124.75.138:1935/sat/tv741
-#EXTINF:-1 ,ELEVEN2
-rtmp://59.124.75.138/sat/tv741
-#EXTINF:-1 ,ELEVEN2
-rtmp://59.124.75.138/sat/md051
-#EXTINF:-1 ,ELEVEN2
-rtmp://59.124.75.150/sat/tv741
-#EXTINF:-1 ,ELTA体育1
-rtmp://59.124.75.150/sat/md011
-#EXTINF:-1 ,ELTA体育1
-rtmp://59.124.75.138/sat/md011
-#EXTINF:-1 ,ELTA体育2
-rtmp://59.124.75.150/sat/md021
-#EXTINF:-1 ,ELTA体育2
-rtmp://59.124.75.138/sat/md021
-#EXTINF:-1 ,ELTA体育3
-rtmp://59.124.75.150/sat/md041
-#EXTINF:-1 ,ELTA体育3
-rtmp://59.124.75.138/sat/md041
-#EXTINF:-1 ,MOMO综合
-rtmp://59.124.75.138:1935/sat/tv761
-#EXTINF:-1 ,MOMO综合
-rtmp://59.124.75.138/sat/tv761
-#EXTINF:-1 ,MOMO综合
-rtmp://59.124.75.150/sat/tv761
-#EXTINF:-1 ,TVBS欢乐
-rtmp://59.124.75.138/sat/tv421
-#EXTINF:-1 ,TVBS欢乐
-rtmp://59.124.75.150/sat/tv421
-#EXTINF:-1 ,TVBS新闻
-rtmp://59.124.75.150/sat/tv551
-#EXTINF:-1 ,TVBS新闻
-rtmp://59.124.75.138/sat/tv551
-#EXTINF:-1 ,博斯网球
-rtmp://59.124.75.150/sat/md031
-#EXTINF:-1 ,博斯网球
-rtmp://59.124.75.138/sat/md031
-#EXTINF:-1 ,博斯运动2
-rtmp://59.124.75.138:1935/sat/md021
-#EXTINF:-1 ,东森财经
-rtmp://59.124.75.138/sat/tv571
-#EXTINF:-1 ,东森财经新闻
-rtmp://59.124.75.150/sat/tv571
-#EXTINF:-1 ,华视
-rtmp://59.124.75.138/sat/tv111
-#EXTINF:-1 ,华视
-rtmp://59.124.75.150/sat/tv111
-#EXTINF:-1 ,民视
-rtmp://59.124.75.138/sat/tv051
-#EXTINF:-1 ,民视
-rtmp://59.124.75.150/sat/tv051
-#EXTINF:-1 ,台视
-rtmp://59.124.75.150/sat/tv071
-#EXTINF:-1 ,台视
-rtmp://59.124.75.138/sat/tv071
-#EXTINF:-1 ,纬来日本
-rtmp://59.124.75.138/sat/tv771
-#EXTINF:-1 ,纬来日本
-rtmp://59.124.75.150/sat/tv771
-#EXTINF:-1 ,纬来体育
-rtmp://59.124.75.138/sat/tv721
-#EXTINF:-1 ,纬来体育
-rtmp://59.124.75.150/sat/tv721
-#EXTINF:-1 ,纬来育乐
-rtmp://59.124.75.150/sat/tv701
-#EXTINF:-1 ,纬来育乐
-rtmp://59.124.75.138/sat/tv701
-#EXTINF:-1 ,中视
-rtmp://59.124.75.150/sat/tv091
-#EXTINF:-1 ,中视
-rtmp://59.124.75.138/sat/tv091
 #EXTINF:-1 ,[HD]KIX
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 ,SBS
@@ -401,11 +363,31 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
 #EXTINF:-1 ,日韩频道
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1 ,无线新闻
-https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=1
-#EXTINF:-1 ,无线财经
-https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=2
-#EXTINF:-1 ,now新闻
-https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
-#EXTINF:-1 ,now直播
-https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=331
+#EXTINF:-1  tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
+https://c.mjh.nz/101002210222/
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png",Baby TV
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png",Baby First
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png",Baby First
+https://livecdn.fptplay.net/hda1/babyfirst_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ambc9le.png",PBS Kids Eastern/Central
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ambc9le.png",PBS Kids SD
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ambc9le.png",PBS Kids HD
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ambc9le.png",PBS Kids HD
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_126.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ambc9le.png",PBS Kids HD
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ambc9le.png",PBS Kids FHD
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_128.m3u8
+#EXTINF:-1 ,Animax HD
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png",BBC Cbeebies
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/dreamworks.png",DreamWorks HD
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/oyIMxzM.png",Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
