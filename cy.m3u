@@ -3,14 +3,6 @@
 https://2022.kg-live.com/live/01
 #EXTINF:-1 ,Now财经
 https://2022.kg-live.com/live/02
-#EXTINF:-1 ,无线新闻
-https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=1
-#EXTINF:-1 ,无线财经
-https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=2
-#EXTINF:-1 ,now新闻
-https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
-#EXTINF:-1 ,now直播
-https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=331
 
 #EXTINF:-1 ,中视
 rtmp://59.124.75.138:1935/sat/tv091
@@ -121,8 +113,6 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 ,BloombergTV+2
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
-#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",ChannelNewsAsia
-https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 #EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",ChannelNewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ,CNA亚洲新闻
