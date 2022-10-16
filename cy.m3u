@@ -452,3 +452,85 @@ http://51.210.199.23/hls/stream.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 ,地理野生
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 ,ТВА (Чернiвцi)乌克兰基辅
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:-1 ,TV3CAT（西班牙）
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 ,NBT World（泰国）
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
+#EXTINF:-1 ,Sofy TV (720p)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Z (Запорожье) (1080p)乌克兰 扎波罗热
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 ,Балта ТВ乌克兰 敖德萨
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 ,Мисто плюс乌克兰 波尔塔瓦 Volia
+http://93.78.206.172:8080/stream5/stream.m3u8
+#EXTINF:-1 ,Сварожичи 乌克兰
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,Hmong Star TV
+http://quality-restream.com:8080/asadmanzur/39e379b23d/284701
+#EXTINF:-1 ,BT SPORT 1 live
+http://s@185.53.89.12:8081/live/ch1/chunks.m3u8
+#EXTINF:-1 ,T sports HD
+http://103.99.249.107:81/play/a02k
+#EXTINF:-1 ,STAR SPORTS 1HD
+http://watchindia.net:8880/live/vvv/vvv/2162.m3u8#http://103.99.249.107:81/play/a00d
+#EXTINF:-1 ,STAR SPORTS 2HD
+http://watchindia.net:8880/live/vvv/vvv/1069.m3u8#http://103.99.249.107:81/play/a00c
+#EXTINF:-1 ,Star Sports Select 1 HD
+http://watchindia.net:8880/live/vvv/vvv/1070.m3u8
+#EXTINF:-1 ,Star Sports Select 2 HD
+http://watchindia.net:8880/live/vvv/vvv/1071.m3u8
+#EXTINF:-1 ,PTV Sports
+http://103.99.249.107:81/play/a02l
+#EXTINF:-1 ,KTV HD
+http://103.99.249.107:81/play/a02g
+#EXTINF:-1 ,DBC
+http://208.86.19.13:81/614.stream/index.m3u8
+#EXTINF:-1 ,BTV World
+http://208.86.19.13:81/627.stream/index.m3u8
+#EXTINF:-1 ,Sky Sports Main Event
+http://watchindia.net:8880/live/vvv/vvv/2091.m3u8
+#EXTINF:-1 ,Sky Sports Premier League
+http://watchindia.net:8880/live/vvv/vvv/2092.m3u8
+#EXTINF:-1 ,Sky Sports Football
+http://watchindia.net:8880/live/vvv/vvv/2093.m3u8
+#EXTINF:-1 ,Sky Sports F1
+http://watchindia.net:8880/live/vvv/vvv/2094.m3u8
+#EXTINF:-1 ,Sky Sports Arena
+http://watchindia.net:8880/live/vvv/vvv/2095.m3u8
+#EXTINF:-1 ,Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 ,Black News Channel (1080p)
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Bloody Disgusting (1080p)
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+#EXTINF:-1 ,Bloomberg Quicktake (1080p)
+https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Bloomberg TV+ UHD (2160p)
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:-1 ,bon appétit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Dubai TV (1080p)
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,EDGEsport (1080p)
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Global Fashion Channel (1080p)
+https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 ,Gusto TV (1080p)
+https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,Hala London (1080p)
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
+#EXTINF:-1 ,Heartland
+https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,Hell's Kitchen
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8
+#EXTINF:-1 ,Horrify (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1 ,Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 ,Ion Plus (1080p)
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
