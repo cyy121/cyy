@@ -621,3 +621,27 @@ https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 ,BOO
+http://23.237.10.66:16420
+#EXTINF:-1 ,东森超视
+rtmp://59.124.75.138/sat/tv331
+#EXTINF:-1 ,In WILD
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,东方影视
+http://111.40.196.28/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:-1 ,生活时尚
+http://111.40.196.31/PLTV/88888888/224/3221225501/index.m3u8
+#EXTINF:-1 ,阿里郎电视
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 ,Niederbayern TV Deggendorf & Straubing
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1 ,Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 ,Oman TV
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,Omroep Brabant
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 ,Omroep Brabant Radio
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 ,Omroep Zeeland
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
