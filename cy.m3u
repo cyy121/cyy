@@ -367,30 +367,18 @@ http://51.210.199.23/hls/stream.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 ,地理野生
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 ,ТВА (Чернiвцi)乌克兰基辅
-http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
 #EXTINF:-1 ,TV3CAT（西班牙）
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:-1 ,Z (Запорожье) (1080p)乌克兰 扎波罗热
-https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 ,Балта ТВ乌克兰 敖德萨
-http://194.50.51.34/playlist.m3u8
-#EXTINF:-1 ,Сварожичи 乌克兰
-http://80.91.177.102:1935/live/live1/playlist.m3u8
 #EXTINF:-1 ,STAR SPORTS 1HD
 http://watchindia.net:8880/live/vvv/vvv/2162.m3u8
 #EXTINF:-1 ,STAR SPORTS 2HD
 http://watchindia.net:8880/live/vvv/vvv/1069.m3u8
-#EXTINF:-1 ,BTV World
-http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:-1 ,Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 ,Black News Channel (1080p)
 http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Bloomberg TV+ UHD (2160p)
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
-#EXTINF:-1 ,bon appétit (1080p)
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,EDGEsport (1080p)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,BOO
